@@ -1,4 +1,4 @@
-module github.com/adovenmuehle/mattermost-looker-bot/openapi
+module github.com/adovenmuehle/mattermost-looker-plugin/openapi
 
 require (
 	github.com/antihax/optional v1.0.0
